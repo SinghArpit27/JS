@@ -1,4 +1,4 @@
-Here's an improved, more readable version of your content on **JavaScript Data Types & Variables** with additional clarifications:
+# JavaScript
 
 ---
 
